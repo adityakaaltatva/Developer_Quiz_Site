@@ -1,5 +1,16 @@
 const sqlQuiz = [
   {
+    {
+    "Question": "Which SQL statement is used to extract data from more than one table in a relational database?",
+    "Answer": "D) JOIN",
+    "Distractor1": "A) MERGE",
+    "Distractor2": "B) UNION",
+    "Distractor3": "C) CONCATENATE",
+    "Explanation": "The SQL statement 'JOIN' is used to extract data from more than one table by combining rows based on a related column or key.",
+}
+
+  }
+  {
     Question:
       "Which SQL database is known for its powerful features, open-source nature, and is often considered production-ready?",
     Answer: "PostgreSQL",
